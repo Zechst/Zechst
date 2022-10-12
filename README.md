@@ -1,4 +1,5 @@
-Hello
+Hello, I am a self taught software developer mainly focusing on front-end development.
+Open to collaborations!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zechst&theme=onedark)](https://github.com/Zechst/github-profile-trophy)
 
